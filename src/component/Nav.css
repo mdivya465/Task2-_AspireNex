@@ -1,0 +1,53 @@
+
+.navbar {
+    background-color: #ffffff; /* Background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem; /* Brand text size */
+    font-weight: bold; /* Brand text weight */
+    color: #333333; /* Brand text color */
+  }
+  
+  .navbar-toggler {
+    border-color: #333333; /* Toggle button border color */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333333; /* Nav link text color */
+  }
+  
+  .navbar-nav .nav-link.active,
+  .navbar-nav .nav-link:hover {
+    color: #007bff; /* Active and hover text color */
+  }
+  
+  .navbar-nav .dropdown-menu {
+    background-color: #ffffff; /* Dropdown menu background */
+    border: 1px solid rgba(0, 0, 0, 0.15); /* Dropdown menu border */
+  }
+  
+  .navbar-nav .dropdown-item {
+    color: #333333; /* Dropdown item text color */
+  }
+  
+  .navbar-nav .dropdown-item:hover {
+    background-color: #f8f9fa; /* Dropdown item hover background */
+  }
+  
+  /* Search form */
+  .form-control {
+    border-color: #ced4da; /* Search input border color */
+  }
+  
+  .btn-outline-success {
+    color: #28a745; /* Search button text color */
+    border-color: #28a745; /* Search button border color */
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #28a745; /* Search button hover background */
+    color: #ffffff; /* Search button hover text color */
+  }
+  

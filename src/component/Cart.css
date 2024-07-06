@@ -1,0 +1,45 @@
+/* Cart.css */
+.container {
+    max-width: 1500px; /* Maximum width for the container */
+    margin: 0 auto; /* Center align the container */
+    padding: 20px; /* Padding inside the container */
+   
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0); /* Heading color */
+    margin-bottom: 20px; /* Space below the heading */
+  }
+  
+  .product {
+    width: 200px; /* Width of each product item */
+    background-color: #ffffff; /* Product item background color */
+    border: 1px solid #ced4da; /* Product item border */
+    border-radius: 4px; /* Border radius */
+    padding: 10px; /* Padding inside each product item */
+    margin: 10px; /* Margin around each product item */
+    text-align: left; /* Align text left */
+  }
+  
+  .product img {
+    max-width: 100%; /* Make sure images don't exceed their container */
+    border-radius: 4px; /* Image border radius */
+  }
+  
+  .product-title {
+    font-size: 1.1rem; /* Product title font size */
+    font-weight: bold; /* Product title font weight */
+    margin-bottom: 5px; /* Space below the product title */
+    color: #030303;
+  }
+  
+  .product-price {
+    color: #007bff; /* Product price color */
+    font-weight: bold; /* Product price font weight */
+  }
+  
+  .product-description {
+    font-size: 0.9rem; /* Product description font size */
+    color: #030303; /* Product description color */
+  }
+  
